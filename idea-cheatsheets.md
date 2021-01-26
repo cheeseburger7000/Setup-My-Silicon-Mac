@@ -25,3 +25,32 @@ todo
 // *14.Find Action(You don't remember all shortcuts): Shift + CMD + A or Shift + Ctrl + A
 // 15.Search Anything(for Classes, Files, CMD, Actions, support cmd like /appearance): Tap Shift Twice
 ```
+
+```md
+# 1.Actions
+// 代码提示关闭大小写敏感：code completion
+// 鼠标滚轮调整字体大小：change font size
+// 多行显示、位置：tab placement Tab
+// 实时模板：live templates 举例：iter react todo 研究
+// 自定义实时模板：gwt
+// 三种视图模式：presentation mode、distraction free mode、full screen model
+//
+# 2.Shortcuts
+// ctrl + n 行号跳转
+// ctrl + F12 类成员查找
+// ctrl + q javadoc
+// ctrl + p *方法参数提示
+// alt + insert 快速代码生成 Mac快速提示: Opt + Enter
+//
+# 3.Debug
+// 1.抛出异常
+// 2.设置方法返回值
+// 3.计算表达式
+// 4.条件断点
+//
+# 4.Plugins
+// 1.lombok
+// 2.alibaba
+// 3.key promoter x
+// 4.gsonformat
+```
