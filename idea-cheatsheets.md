@@ -34,6 +34,7 @@ todo 整理出一份大的清单，方便查找
 // 实时模板：live templates 举例：iter react todo 研究
 // 自定义实时模板：gwt
 // 三种视图模式：presentation mode、distraction free mode、full screen model
+// 查看MVC REST路径：spring
 //
 # 2.Shortcuts
 // ctrl + n 行号跳转
@@ -41,6 +42,7 @@ todo 整理出一份大的清单，方便查找
 // ctrl + q javadoc
 // ctrl + p *方法参数提示
 // alt + insert 快速代码生成 Mac快速提示: Opt + Enter
+// Ctrl + Alt + B 查看接口实现类
 //
 # 3.Debug
 // 1.抛出异常
