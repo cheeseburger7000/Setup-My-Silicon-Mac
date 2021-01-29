@@ -20,6 +20,12 @@ todo 整理出一份大的清单，方便查找
 | Get the Javadoc | Ctrl + Q | ? | |
 | Parameter Prompt | Ctrl + P | ? | |
 | Get Interface Impl | Ctrl + Alt + B | ? | |
+| Next Error | F2 | F2| |
+| Open Project Window | Alt + 1 | CMD + 1 | |
+| Escape Back to Editor | ESC | ESC | |
+| Recently File | Ctrl + E | CMD + E | |
+| Navigate to Declaration | Ctrl + B | CMD + B | |
+| Navigate to Impl of Interface | Ctrl + Alt + B | CMD + Opt + B | |
 
 ## Actions
 
