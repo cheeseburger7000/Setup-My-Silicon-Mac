@@ -6,16 +6,33 @@ todo 整理出一份大的清单，方便查找
 2. 动态调整窗口显示大小
 3. Tab 多行显示
 
-## 15 Shortcut 
+## Shortcuts
 
-| Function | Win | Mac |
-| ---- | ---- | ---- |
-| Quick Tips | Alt + Enter(Maybe) | Opt + Enter |
-| Generate Code/Add New File | Alt + Insert | CMD + N |
-| Surround With | Ctrl + Alt + T | Opt + CMD |
-| Move Statement Up/Down | Ctrl + Shift + ↑/↓ | CMD + Shift + ↑/↓ | 
-| Cursor Before/After | Ctrl + Alt + ←/→ | Opt + CMD + ←/→ |
-| Go to Line/Column | Ctrl + G | ? |
+| Function | Win | Mac | Recommend |
+| ---- | ---- | ---- | ---- |
+| Quick Tips | Alt + Enter(Maybe) | Opt + Enter | 👍 |
+| Generate Code/Add New File | Alt + Insert | CMD + N | 👍 |
+| Surround With | Ctrl + Alt + T | Opt + CMD | |
+| Move Statement Up/Down | Ctrl + Shift + ↑/↓ | CMD + Shift + ↑/↓ | |
+| Cursor Before/After | Ctrl + Alt + ←/→ | Opt + CMD + ←/→ | |
+| Go to Line/Column | Ctrl + G | ? | |
+| Find Field/Method in Class | Ctrl + F12 | ? | |
+| Get the Javadoc | Ctrl + Q | ? | |
+| Parameter Prompt | Ctrl + P | ? | |
+| Get Interface Impl | Ctrl + Alt + B | ? | |
+
+## Actions
+
+| Function | Instruction |
+| ---- | ---- |
+| 😎 沉浸式视图 | presentation mode |
+| 全屏视图 | distraction free mode |
+| 编辑器全屏视图 | full screen model |
+| 代码提示关闭大小写敏感 | code completion |
+| 鼠标滚轮调整字体大小 | change font size |
+| Tab标签多行显示、位置 | tab placement |
+| 实时模板 | live templates | 
+| 查看MVC REST路径 | spring |
 
 ```java
 // 1.Prompt or Suggestion: Alt + Enter
@@ -36,22 +53,8 @@ todo 整理出一份大的清单，方便查找
 ```
 
 ```md
-# 1.Actions
-// 代码提示关闭大小写敏感：code completion
-// 鼠标滚轮调整字体大小：change font size
-// 多行显示、位置：tab placement Tab
-// 实时模板：live templates 举例：iter react todo 研究
-// 自定义实时模板：gwt
-// 三种视图模式：presentation mode、distraction free mode、full screen model
-// 查看MVC REST路径：spring
-//
-# 2.Shortcuts
-// ctrl + F12 类成员查找
-// ctrl + q javadoc
-// ctrl + p *方法参数提示
-// alt + insert 快速代码生成 Mac快速提示: Opt + Enter
-// Ctrl + Alt + B 查看接口实现类
-//
+todo
+
 # 3.Debug
 // 1.抛出异常
 // 2.设置方法返回值
