@@ -1,10 +1,11 @@
 # IDEA Cheatsheets
 
-todo 整理出一份大的清单，方便查找
+Table of Content:
 
-1. 代码提示关闭大小写敏感
-2. 动态调整窗口显示大小
-3. Tab 多行显示
+- [Shortcuts](#shortcuts)
+- [Actions](#actions)
+- [Debug](#debug)
+- [Plugins](#plugins)
 
 ## Shortcuts
 
@@ -26,6 +27,14 @@ todo 整理出一份大的清单，方便查找
 | Recently File | Ctrl + E | CMD + E | |
 | Navigate to Declaration | Ctrl + B | CMD + B | |
 | Navigate to Impl of Interface | Ctrl + Alt + B | CMD + Opt + B | |
+| Find Usage | Alt + F7 | Opt + F7 | 👍 |
+| Run Anything | Press Twice Ctrl | Press Twice Ctrl | |
+| Extend/Shrink Selection | Ctrl + W/(Shift + W) | Opt + up/down | 👍 |
+| The Block Comment | Ctrl + Shift + / | CMD + Shift + / | |
+| Complete Current Statement(ex: semi-colon, for or if statement) | Shift + Ctrl + Enter | Shift + CMD + ENTER | 👍 |
+| Refactor Tips | Ctrl + T and Shift + Ctrl + Alt + T | | | *
+| Find Action(You don't remember all shortcuts) | Shift + Ctrl + A | Shift + CMD + A | 👍 |
+| Search Anything(for Classes, Files, CMD, Actions, support cmd like /appearance) | Tap Shift Twice | Tap Shift Twice | 👍 |
 
 ## Actions
 
@@ -40,36 +49,16 @@ todo 整理出一份大的清单，方便查找
 | 实时模板 | live templates | 
 | 查看MVC REST路径 | spring |
 
-```java
-// 1.Prompt or Suggestion: Alt + Enter
-// 2.Next Error: F2
-// 3.Open Project Window: CMD + 1 or Alt + 1
-// 4.Escape Back to Editor: ESC
-// 5.Recently File: CMD + E or Ctrl + E
-// 6.Navigate to Declaration: CMD + B or Ctrl + B
-// 7.Navigate to impl of interface: CMD + Opt + B or Ctrl + Alt + B
-// *8.Find Usage: Opt + F7 or Alt + F7
-// *9.Run Anything use CMD: Press Twice Ctrl
-// *10.Extend/Shrink Selection: Opt + up/down or Ctrl + W/(Shift + W)
-// 11.The Block Comment: CMD + Shift + /
-// *12.Complete Current Statement(ex: semi-colon, for or if statement): Shift + CMD + ENTER or Shift + Ctrl + Enter
-// *13.Refactor Tips: Ctrl + T or Shift + Ctrl + Alt + T
-// *14.Find Action(You don't remember all shortcuts): Shift + CMD + A or Shift + Ctrl + A
-// 15.Search Anything(for Classes, Files, CMD, Actions, support cmd like /appearance): Tap Shift Twice
-```
+## Debug
 
-```md
-todo
-
-# 3.Debug
 // 1.抛出异常
 // 2.设置方法返回值
 // 3.计算表达式
 // 4.条件断点
-//
-# 4.Plugins
+
+## Plugins
+
 // 1.lombok
 // 2.alibaba
 // 3.key promoter x
 // 4.gsonformat
-```
