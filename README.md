@@ -130,3 +130,9 @@ https://gist.github.com/w3cj/76cd9fb9f346e153b6f0dc46fd025620
 os-x-setup-commands.sh
 
 vs-code-extensions.txt
+
+## vscode 
+
+To make the transition from one computer to another seamless, VS Code has a sweet extension by the name of Settings Sync, which lets you upload your configurations to a GitHub Gist. Once they are up on GitHub, the extension takes care of keeping the following files in sync: settings file, keybindings, snippets, workspace folders, and extensions and their corresponding configurations.
+
+The extension’s page has a thorough explanation on how to get it set up and should only take a couple of minutes to have your VS Code with your preferred settings.
