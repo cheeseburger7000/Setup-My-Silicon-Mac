@@ -5,6 +5,7 @@
 ## 📖 Table of Contents
 
 - [⚙️ Basic Settings](#-basic-settings)
+- [词典]
 - [📦 App](#-app)
 - [👨🏻‍💻 Dev](#-dev)
   - [os-x-setup-commands](#os-x-setup-commands)
@@ -43,7 +44,21 @@
 
 显示-显示标签页栏
 
-3. 增强 MacOS 自带词典，支持朗文、牛津等英英词典、美式发音。参考[文章](https://www.zhihu.com/question/20428599)
+## 词典
+
+[hallelujahIM](https://github.com/dongyuwei/hallelujahIM/blob/master/README-En.md) 智能英文拼写补全, 拥有英文写作 ✏️
+
+[Bob](https://github.com/ripperhe/Bob) 截图翻译
+
+[grammarly](https://www.grammarly.com/native/mac) 英文写作语法纠正
+
+开启 MacOS 内置单词、句子发音. 系统偏好设置 - 辅助功能 - 朗读内容 - ☑️ 朗读所选内容. 开启之后使用快捷键触发 <kbd>Opt</kbd> + <kbd>ESC</kbd>
+
+强制唤醒内置词典 <kbd>Ctrl</kbd> + <kbd>CMD</kbd> + <kbd>D</kbd>
+
+增强 alfred. 支持 `tr concurrent`  
+
+增强 MacOS 自带词典. [《柯林斯双解》for macOS](https://placeless.net/blog/macos-dictionaries). 也可参考[文章](https://www.zhihu.com/question/20428599)
 
 ## 📦 App
 
