@@ -2,10 +2,10 @@
 
 Table of Content:
 
-- [Shortcuts](#shortcuts)
-- [Actions](#actions)
-- [Debug](#debug)
-- [Plugins](#plugins)
+- [Shortcuts](#-shortcuts)
+- [Actions](#-actions)
+- [Debug](#-debug)
+- [Plugins](#-plugins)
 
 ## 🎨 Shortcuts
 
