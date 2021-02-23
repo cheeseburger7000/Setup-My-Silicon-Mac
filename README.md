@@ -5,8 +5,8 @@
 ## 📖 Table of Contents
 
 - [⚙️ Basic Settings](#-basic-settings)
-  - [Dock](#-dock)
-  - [Finder](#-finder)
+  - [Dock](#dock)
+  - [Finder](#finder)
 - [📚 Dictionary](#-dictionary)
 - [📦 App](#-app)
 - [👨🏻‍💻 Dev](#-dev)
