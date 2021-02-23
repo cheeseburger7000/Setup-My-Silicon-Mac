@@ -130,7 +130,7 @@ sudo vi /etc/hosts
 
 ### 安装并配置 VSCode
 
-安装 `code . ` <kbd>CMD</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> 选择 install 'code' command in PATH.
+安装 `code .`。 <kbd>CMD</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> 选择 install 'code' command in PATH.
 
 参考插件清单 [user:w3cj](https://gist.github.com/w3cj/520eb023dd3531d1b654794f65aa434b) 并使用脚本直接批量安装, 例如 `hile read line; do code --install-extension "$line";done < vscode-extensions.txt`
 
