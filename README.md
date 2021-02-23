@@ -5,7 +5,7 @@
 ## 📖 Table of Contents
 
 - [⚙️ Basic Settings](#-basic-settings)
-- [词典]
+- [词典](#词典)
 - [📦 App](#-app)
 - [👨🏻‍💻 Dev](#-dev)
   - [os-x-setup-commands](#os-x-setup-commands)
