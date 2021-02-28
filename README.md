@@ -52,7 +52,7 @@
 3. [grammarly](https://www.grammarly.com/native/mac) 英文写作语法纠正
 4. 开启 MacOS 内置单词、句子发音. 系统偏好设置 - 辅助功能 - 朗读内容 - ☑️ 朗读所选内容. 开启之后使用快捷键触发 <kbd>Opt</kbd> + <kbd>ESC</kbd>
 5. 强制唤醒内置词典 <kbd>Ctrl</kbd> + <kbd>CMD</kbd> + <kbd>D</kbd>
-6. 增强 alfred. 支持 `tr concurrent`  
+6. 增强 alfred 支持快捷翻译 `tr concurrent`. 配置方式参考[这里](https://www.alfredapp.com/blog/tips-and-tricks/dont-get-lost-in-translation/)
 7. 增强 MacOS 自带词典. [《柯林斯双解》for macOS](https://placeless.net/blog/macos-dictionaries). 也可参考[文章](https://www.zhihu.com/question/20428599)
 8. 安装欧陆词典
 
