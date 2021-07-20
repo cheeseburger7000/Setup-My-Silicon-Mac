@@ -4,7 +4,7 @@
 
 ## 📖 Table of Contents
 
-- [⚙️ Basic Settings](#-basic-settings)
+- [偏好设置](#-basic-settings)
   - [Dock](#dock)
   - [Finder](#finder)
 - [📚 Dictionary](#-dictionary)
@@ -22,7 +22,7 @@
 - [Mac OS Shortcuts]
 - [其它]
 
-## ⚙️ Basic Settings
+## Basic Settings
 
 ### Dock
 
@@ -86,14 +86,16 @@
 ```bash dev-setup.sh
 xcode-select --install
 
+# Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew update
 
+# iTerm2
 brew cask install iterm2
-# 配置 iTerm2 主题为 Minimal
-# 配置 iTerm2 默认 Profile 的窗口字体大小为 24, 前景色为 #5acd5a. 
-# 第一个配置项位置: Preferences-Profiles-Text-Font, 第二个配置项位置: Preferences-Profiles-Colors-Foreground.
-# TODO 配置 iTerm2 快捷键行为 
+# 配置 Preferences-Profiles-Text-Font 主题为 Minimal
+# 配置 Preferences-Profiles-Colors-Foreground 默认 Profile 的窗口字体大小为 24, 
+# 前景色为 #5acd5a
+# 配置快捷键行为 
 
 # oh my zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -264,3 +266,15 @@ brew install cowsay
 Airpods 和 Mac 交互
 
 Jsonserver
+
+# Alfred
+
+配置Google翻译
+
+```
+https://www.google.com/search?q=how%20to%20pronounce%20{query}
+```
+
+- [高效进阶](https://ihtcboy.com/2020/02/09/2020-02-09_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84macOS%E7%B3%BB%E5%88%97%EF%BC%9A%E9%AB%98%E6%95%88Alfred%E8%BF%9B%E9%98%B6/)
+- [Search Web Like a Pro](https://www.makeuseof.com/tag/alfred-mac-search-tips/)
+- [Windows Wox](https://sspai.com/post/33460) Win平台类似产品
