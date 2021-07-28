@@ -281,4 +281,8 @@ https://www.google.com/search?q=how%20to%20pronounce%20{query}
 
 # Touch bar
 
-Seach app in Github
+[Pock](https://pock.app/)
+M1在安装Pock时，默认的Dock插件无法使用，处理方式参考 [Fix blank Dock widget issue on Pock](https://huynq.net/fix-dock-widget-blank-on-pock/)
+
+
+todo Docker 加速镜像
