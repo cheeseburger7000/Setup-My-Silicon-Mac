@@ -286,3 +286,14 @@ https://www.google.com/search?q=how%20to%20pronounce%20{query}
 
 
 todo Docker 加速镜像
+
+# 解决MacOS终端SSH超时断开
+
+```zsh
+vim /etc/ssh/ssh_config
+
+ Host *
+   SendEnv LANG LC_*
++ # 每60秒给SSH服务器发送KeepAlive请求，保证终端不会因为超时空闲而自动断开连接
++ ServerAliveInterval 60
+```

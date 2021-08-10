@@ -7,6 +7,10 @@ Table of Content:
 - [Debug](#-debug)
 - [Plugins](#-plugins)
 
+# 基本配置
+
+1. 关闭自动格式化 Settings - Editor - General - Strip trailing spaces on Save for None.
+
 ## 🎨 Shortcuts
 
 | Function | Win | Mac | Recommend |
