@@ -2,7 +2,7 @@
 
 ✨💻 在重装系统、环境同步等情况下。重新配置我的个性化MacOS开发环境。
 
-## 📚 词典
+# 📚 词典
 
 1. 开启 MacOS 内置单词、句子发音. 系统偏好设置 - 辅助功能 - 朗读内容 - ☑️ 朗读所选内容. 开启之后使用快捷键触发 <kbd>Opt</kbd> + <kbd>ESC</kbd>
 2. 增强 MacOS 自带词典. [《柯林斯双解》for macOS](https://placeless.net/blog/macos-dictionaries). 也可参考[文章](https://www.zhihu.com/question/20428599)
@@ -10,7 +10,7 @@
 
 > 强制唤醒内置词典 <kbd>Ctrl</kbd> + <kbd>CMD</kbd> + <kbd>D</kbd>
 
-## 👨🏻‍💻 Dev环境
+# 👨🏻‍💻 Dev环境
 
 1. 执行脚本
 
